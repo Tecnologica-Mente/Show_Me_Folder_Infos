@@ -9,6 +9,7 @@ Questo script, eseguito in una cartella a piacere del proprio PC, mostrerà alcu
 3) il (primo) file con nome più lungo, riportando anche la lunghezza di esso
 4) il (primo) percorso con nome più lungo, riportando anche la lunghezza di esso
 5) la (prima) cartella con il percorso più profondo, riportando anche il numero di livelli di profondità.
+
 E' possibile, infine, estrarre anche diverse liste (sottoforma di file di testo .txt) di tutte le sottocartelle e di tutti i files contenuti nella cartella.
 
 Divertitevi ;-)
@@ -28,6 +29,7 @@ This script, run in any folder on your PC, will show some information about its 
 3) the (first) file with the longest name, also reporting its length
 4) the (first) path with the longest name, also reporting its length
 5) the (first) folder with the deepest path, also reporting the number of levels deep.
+
 Finally, it is also possible to extract various lists (in the form of .txt text files) of all the subfolders and of all the files contained in the folder.
 
 Enjoy ;-)
