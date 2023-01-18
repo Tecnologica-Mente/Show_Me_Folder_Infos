@@ -1,6 +1,16 @@
 # Change Log
-This is a full list of changes for each release of Show_Me_Folder_Infos_GUI.
+This is a full list of changes for each release of Show_Me_Folder_Infos.
  
+## [1.1.0] - 2023-01-18
+ 
+### Added
+ 
+### Changed
+ - Code optimization
+ 
+### Fixed
+ 
+----------------------------------------------------------------------------------------
 ## [1.0.0] - 2023-01-10
   
 First program version.
